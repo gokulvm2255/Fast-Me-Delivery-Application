@@ -1,2 +1,15 @@
-# Fast-Me-Delivery-Application
-Fast-Me Courier App A user-friendly courier delivery application featuring real-time order tracking, secure parcel management, and intelligent route optimization. Integrated seamless payment systems and dedicated interfaces for both users and driver-partners to streamline operations and enhance the overall delivery experience.
+Fast-Me Courier App
+A feature-rich courier delivery application built with Flutter, offering real-time order tracking, secure parcel management, and optimized route handling.
+Key features include:
+
+🚚 Real-Time Tracking – Live order updates for users and driver-partners
+
+📦 Secure Parcel Management – Reliable and efficient delivery flow
+
+🧭 Route Optimization – Minimized delivery times with smart routing
+
+💳 Razorpay Integration – Secure in-app payment processing
+
+🧑‍💼 Admin Panel – Manage orders, users, and delivery agents efficiently
+
+📱 Curved Navigation Bar – Modern, smooth, and intuitive UI navigation
